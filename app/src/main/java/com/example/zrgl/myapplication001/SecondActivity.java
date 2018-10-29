@@ -22,6 +22,7 @@ public class SecondActivity extends AppCompatActivity {
         
         //你在试试呗 哈哈 
             
+        //好好学些 呐 ，天天向上啊  
             
     
     }
