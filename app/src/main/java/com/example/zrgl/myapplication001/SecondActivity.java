@@ -19,5 +19,10 @@ public class SecondActivity extends AppCompatActivity {
         
         
        //第三方发送的消息  as 拉取更新 
+        
+        //你在试试呗 哈哈 
+            
+            
+    
     }
 }
